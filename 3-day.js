@@ -12,3 +12,5 @@ var expect = function (val) {
     }
   }
 };
+
+expect(3).toBe(7)
